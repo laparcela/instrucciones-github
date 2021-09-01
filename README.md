@@ -38,7 +38,7 @@ Lo primero que tienes que hacer es crear el lugar donde va a vivir tú proyecto.
 
 Existen varias formas para subir tu código. Elige una opción dependiendo tu caso:
 
-- **Caso 1:** "Ya tengo todo listo, no he usado git y solo lo quiero subir mi código de la forma más fácil y rápida posible"
+- **Caso 1:** "Ya tengo terminado lo que quiero subir, no he usado git y solo lo quiero subir mi código de la forma más fácil y rápida posible"
 - **Caso 2:** "Ya tengo lo que quiero subir y ya es un proyecto de git"
 - **Caso 3:** "Apenas voy a empezar a trabajar pero quiero desde un inicio usar git y Github"
 
