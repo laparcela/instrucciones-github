@@ -10,27 +10,27 @@ Lo primero que tienes que hacer es crear el lugar donde va a vivir tú proyecto.
 
 1. Entra a la página de [Github](https://github.com/) y da click en **Iniciar sesión**:
 
-![Iniciar sesión en github](img-01.png)
+![Iniciar sesión en github](./img/img-01.png)
 
 2. Inicia sesión con la cuenta ***laparcela***:
 
-![Iniciar sesión en github](img-02.png)
+![Iniciar sesión en github](./img/img-02.png)
 
 3. En la página de usuario da click en **+** y en **Nuevo repositorio**:
 
-![Crear nuevo repositorio](img-03.png)
+![Crear nuevo repositorio](./img/img-03.png)
 
 4. Ingresa el nombre de tu repositorio. El nombre no puede incluir espacios vacios ya que este se utilizará en la url de tu proyecto (e.g., `https://github.com/laparcela/AGROECO-POWER-5000`):
 
-![Nombrar el repositorio](img-04.png)
+![Nombrar el repositorio](./img/img-04.png)
 
 5. Agrega opcionalmente una *Descripcion* del proyecto, indica que sea *Publico* para que todos lo puedan ver e inicializa vacio tu repositorio (no agregues un `README`, `.gitignore` ni `licencia`). Y finalmente da click en **Crear repositorio**:
 
-![Opciones de repositorio](img-05.png)
+![Opciones de repositorio](./img/img-05.png)
 
 6. ¡Listo has creado el repositorio donde vivirá tu proyecto! Verás la siguiente ventana:
 
-![Inicializacion de repositorio](img-06.png)
+![Inicializacion de repositorio](./img/img-06.png)
 
 ---
 
@@ -46,43 +46,43 @@ Existen varias formas para subir tu código. Elige una opción dependiendo tu ca
 
 1. Da click en **subir un archivo existente**:
 
-![Subir un archivo existente](img-07.png)
+![Subir un archivo existente](./img/img-07.png)
 
 2. Arrastra todos los archivos y carpetas que quieras subir a tu repositorio:
 
-![Arrastrar los archivos a subir](img-08.png)
+![Arrastrar los archivos a subir](./img/img-08.png)
 
 3. Revisa que se vayan a subir todos los archivos que quieres:
 
-![Revisar archivos a subir](img-09.png)
+![Revisar archivos a subir](./img/img-09.png)
 
 4. Agrega un mensaje de **commit** (algo que describa qué estás haciendo) y da click en **Realizar cambios**:
 
-![Realizar cambios en repositorio](img-10.png)
+![Realizar cambios en repositorio](./img/img-10.png)
 
 5. ¡Listo tus archivos ahora están en un repositorio de Github!
 
-![Archivos subidos](img-11.png)
+![Archivos subidos](./img/img-11.png)
 
 6. Es recomendable también agregar un **README** que describa el proyecto. Para eso da click en **Agregar README**:
 
-![Agregar README](img-12.png)
+![Agregar README](./imng/img-12.png)
 
 7. Agrega una descripción de tu modelo. El archivo README se escribe utilizando un lenguaje de marcado llamado Markdown. Este te permite estructurar tu texto para que de manera automática te ponga títulos, subtítulos, negritas, enlaces, etc. Aquí puedes aprende sobre la [sintaxis de Markdown](https://www.markdownguide.org/basic-syntax/).
 
-![Agrega la descripción de tu proyecto](img-13.png)
+![Agrega la descripción de tu proyecto](./img/img-13.png)
 
 8. Agrega un mensaje de **commit**, selecciona **Realizar cambios directamente en la rama `main`** y da click en **Realizar cambios**:
 
-![Realizar cambios en repositorio](img-14.png)
+![Realizar cambios en repositorio](./img/img-14.png)
 
 9. ¡Listo! Tu proyecto ya incluye un README que se muestra en la entrada de tu repositorio:
 
-![Todo listo](img-15.png)
+![Todo listo](./img/img-15.png)
 
 10. Copia la url del repositorio, pégala en tu tesis/artículo o compartela con todos tus amigos.
 
-![Comparte tu repo](img-16.png)
+![Comparte tu repo](./img/img-16.png)
 
 ### Caso 2
 
