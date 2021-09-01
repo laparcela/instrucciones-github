@@ -68,7 +68,7 @@ Existen varias formas para subir tu código. Elige una opción dependiendo tu ca
 
 ![Agregar README](./img/img-12.png)
 
-7. Agrega una descripción de tu modelo. El archivo README se escribe utilizando un lenguaje de marcado llamado Markdown. Este te permite estructurar tu texto para que de manera automática te ponga títulos, subtítulos, negritas, enlaces, etc. Aquí puedes aprende sobre la [sintaxis de Markdown](https://www.markdownguide.org/basic-syntax/).
+7. Agrega una descripción de tu proyecto. El archivo README se escribe utilizando un lenguaje de marcado llamado Markdown. Este te permite estructurar tu texto para que de manera automática te ponga títulos, subtítulos, negritas, enlaces, etc. Aquí puedes aprende sobre la [sintaxis de Markdown](https://www.markdownguide.org/basic-syntax/).
 
 ![Agrega la descripción de tu proyecto](./img/img-13.png)
 
